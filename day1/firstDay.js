@@ -259,7 +259,7 @@ let hasilMap = satuDuaTiga.map(angka => {
 });
 
 // console.log(hasilForeach);
-// console.log(hasilMap);
+console.log(hasilMap);
 // console.log(satuDuaTiga);
 
 let hasilFilter = satuDuaTiga.filter(angka => {
